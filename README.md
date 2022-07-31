@@ -1,1 +1,3 @@
 # React-shopping-cart
+
+This project based an shopping cart.in this app there are many functionalities like add items in the  cart,remove item in the cart etc...
