@@ -1,0 +1,40 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+div {
+  margin-top: 5em;
+  margin-right: 10em;
+  margin-left: 10em;
+}
+h1 {
+  font-size: 3em;
+  font-style: italic;
+  color: white;
+  text-align: center;
+}
+h2 {
+  font-size: 2em;
+}
+h3,
+h2,
+ul {
+  text-align: center;
+  color: white;
+}
+button {
+  background-color: rgb(235, 175, 96);
+  font-weight: bold;
+  height: 20px;
+}
+body {
+  background-color: palevioletred;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  font: normal 75% Arial, Helvetica, sans-serif;
+}
